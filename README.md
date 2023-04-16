@@ -1,6 +1,6 @@
 # Java-GUI-App
 
-Created by Ayu Sudi Dwijayanti for Personal Assignment 2 in Business Application Development.
+Created by Ayu Sudi Dwijayanti for Personal Assignment.
 
 Open app with Netbeans version 17 (Apache NetBeans IDE 17).  
 Not recommend to open with VSCode.
@@ -85,7 +85,6 @@ Pastikan sebelum menjalankan aplikasi sudah memiliki bentuk database yang serupa
 1. Make sure all package, plugin and SDK is installed: 
 - Develop with Java programming language.
 - Develop with Apache NetBeans IDE 17. 
-- Java with Ant for Java Application.
 - Database use PostgreSQL 15. 
 - Require Postgres JDBC Driver.
 - Requie plugin input jcalendar. 
