@@ -11,7 +11,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author ayusudi
+ * @author Naratama
  */
 public class FormCreatePatient extends javax.swing.JInternalFrame {
 
