@@ -8,7 +8,7 @@ import java.sql.*;
 
 /**
  *
- * @author ayusudi
+ * @author Naratama
  */
 public class JdbcConn {
    public static Connection connection;
