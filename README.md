@@ -1,6 +1,6 @@
-# Java-GUI-App
+# -Java-CRUD-PasienApp
 
-Created by Ayu Sudi Dwijayanti for Personal Assignment.
+Created by Naratama for Personal Assignment.
 
 Open app with Netbeans version 17 (Apache NetBeans IDE 17).  
 Not recommend to open with VSCode.
