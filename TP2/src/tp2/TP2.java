@@ -10,7 +10,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author ayusudi
+ * @author Naratama
  */
 public class TP2 extends javax.swing.JFrame {
 
