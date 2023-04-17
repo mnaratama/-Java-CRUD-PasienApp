@@ -10,7 +10,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author ayusudi
+ * @author Naratama
  */
 public class TablePatient extends javax.swing.JInternalFrame {
 

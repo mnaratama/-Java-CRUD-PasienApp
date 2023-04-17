@@ -2,8 +2,6 @@
 
 <Form version="1.9" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
   <NonVisualComponents>
-    <Component class="com.toedter.calendar.JCalendar" name="jCalendar1">
-    </Component>
     <Menu class="java.awt.MenuBar" name="menuBar1">
       <SubComponents>
         <Menu class="java.awt.Menu" name="menu1">
