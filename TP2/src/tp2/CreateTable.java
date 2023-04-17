@@ -9,7 +9,7 @@ import tp2.JdbcConn;
 
 /**
  *
- * @author ayusudi
+ * @author Naratama
  */
 public class CreateTable {
    public static void main(String[] args) throws Exception {
